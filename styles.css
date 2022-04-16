@@ -444,6 +444,39 @@ h3 {
   margin-bottom: 45px;
 }
 
+.big-five #Cobra {
+  height: 60vh;
+  width: 680px;
+}
+
+.Cobra {
+  width: 1130px;
+  max-width: 95%;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.Cobra h2 {
+  color: white;
+  font-size: 75px;
+  margin-bottom: 20px;
+}
+
+.Cobra p {
+  color: white;
+  letter-spacing: 1px;
+  line-height: 28px;
+  font-size: 18px;
+  margin-bottom: 45px;
+}
+
+.big-five #Boomslang {
+  height: 70vh;
+  width: 680px;
+}
+
 footer {
   position: relative;
   width: 100%;
