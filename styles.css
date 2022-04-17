@@ -640,6 +640,230 @@ h3 {
   margin-bottom: 45px;
 }
 
+.big-five #Ostrich {
+  height: 70vh;
+  width: 680px;
+}
+
+.Ostrich {
+  width: 1170px;
+  max-width: 95%;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.Ostrich h2 {
+  color: white;
+  font-size: 75px;
+  margin-bottom: 20px;
+}
+
+.Ostrich p {
+  color: white;
+  letter-spacing: 1px;
+  line-height: 28px;
+  font-size: 18px;
+  margin-bottom: 45px;
+}
+
+.big-five #Tilapia {
+  height: 60vh;
+  width: 680px;
+}
+
+.Tilapia {
+  width: 1130px;
+  max-width: 95%;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.Tilapia h2 {
+  color: white;
+  font-size: 75px;
+  margin-bottom: 20px;
+}
+
+.Tilapia p {
+  color: white;
+  letter-spacing: 1px;
+  line-height: 28px;
+  font-size: 18px;
+  margin-bottom: 45px;
+}
+
+.big-five #Mahi {
+  height: 70vh;
+  width: 680px;
+}
+
+.Mahi {
+  width: 1170px;
+  max-width: 95%;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.Mahi h2 {
+  color: white;
+  font-size: 75px;
+  margin-bottom: 20px;
+}
+
+.Mahi p {
+  color: white;
+  letter-spacing: 1px;
+  line-height: 28px;
+  font-size: 18px;
+  margin-bottom: 45px;
+}
+
+.big-five #Barracuda {
+  height: 60vh;
+  width: 680px;
+}
+
+.Barracuda {
+  width: 1130px;
+  max-width: 95%;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.Barracuda h2 {
+  color: white;
+  font-size: 75px;
+  margin-bottom: 20px;
+}
+
+.Barracuda p {
+  color: white;
+  letter-spacing: 1px;
+  line-height: 28px;
+  font-size: 18px;
+  margin-bottom: 45px;
+}
+
+.big-five #NilePerch {
+  height: 70vh;
+  width: 680px;
+}
+
+.NilePerch {
+  width: 1170px;
+  max-width: 95%;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.NilePerch h2 {
+  color: white;
+  font-size: 75px;
+  margin-bottom: 20px;
+}
+
+.NilePerch p {
+  color: white;
+  letter-spacing: 1px;
+  line-height: 28px;
+  font-size: 18px;
+  margin-bottom: 45px;
+}
+
+.big-five #Marlin {
+  height: 60vh;
+  width: 680px;
+}
+
+.Marlin {
+  width: 1130px;
+  max-width: 95%;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.Marlin h2 {
+  color: white;
+  font-size: 75px;
+  margin-bottom: 20px;
+}
+
+.Marlin p {
+  color: white;
+  letter-spacing: 1px;
+  line-height: 28px;
+  font-size: 18px;
+  margin-bottom: 45px;
+}
+
+.big-five #Tuna {
+  height: 70vh;
+  width: 680px;
+}
+
+.Tuna {
+  width: 1170px;
+  max-width: 95%;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.Tuna h2 {
+  color: white;
+  font-size: 75px;
+  margin-bottom: 20px;
+}
+
+.Tuna p {
+  color: white;
+  letter-spacing: 1px;
+  line-height: 28px;
+  font-size: 18px;
+  margin-bottom: 45px;
+}
+
+.big-five #Trout {
+  height: 60vh;
+  width: 680px;
+}
+
+.Trout {
+  width: 1130px;
+  max-width: 95%;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.Trout h2 {
+  color: white;
+  font-size: 75px;
+  margin-bottom: 20px;
+}
+
+.Trout p {
+  color: white;
+  letter-spacing: 1px;
+  line-height: 28px;
+  font-size: 18px;
+  margin-bottom: 45px;
+}
+
 footer {
   position: relative;
   width: 100%;
