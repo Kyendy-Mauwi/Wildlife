@@ -472,9 +472,60 @@ h3 {
   margin-bottom: 45px;
 }
 
-.big-five #Boomslang {
+.big-five #Longclaw {
   height: 70vh;
   width: 680px;
+}
+
+.Longclaw {
+  width: 1170px;
+  max-width: 95%;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.Longclaw h2 {
+  color: white;
+  font-size: 75px;
+  margin-bottom: 20px;
+}
+
+.Longclaw p {
+  color: white;
+  letter-spacing: 1px;
+  line-height: 28px;
+  font-size: 18px;
+  margin-bottom: 45px;
+}
+
+.big-five #Magpie {
+  height: 60vh;
+  width: 680px;
+}
+
+.Magpie {
+  width: 1130px;
+  max-width: 95%;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.Magpie h2 {
+  color: white;
+  font-size: 75px;
+  margin-bottom: 20px;
+}
+
+.Magpie p {
+  color: white;
+  letter-spacing: 1px;
+  line-height: 28px;
+  font-size: 18px;
+  margin-bottom: 45px;
 }
 
 footer {
