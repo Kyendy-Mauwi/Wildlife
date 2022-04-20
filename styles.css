@@ -276,6 +276,795 @@ h3 {
   margin-bottom: 45px;
 }
 
+.big-five #Hippopotamus {
+  height: 60vh;
+  width: 680px;
+}
+
+.Hippopotamus {
+  width: 1130px;
+  max-width: 95%;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.Hippopotamus h2 {
+  color: white;
+  font-size: 75px;
+  margin-bottom: 20px;
+}
+
+.Hippopotamus p {
+  color: white;
+  letter-spacing: 1px;
+  line-height: 28px;
+  font-size: 18px;
+  margin-bottom: 45px;
+}
+
+.big-five #Wildbeast {
+  height: 70vh;
+  width: 680px;
+}
+
+.Wildbeast {
+  width: 1170px;
+  max-width: 95%;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.Wildbeast h2 {
+  color: white;
+  font-size: 75px;
+  margin-bottom: 20px;
+}
+
+.Wildbeast p {
+  color: white;
+  letter-spacing: 1px;
+  line-height: 28px;
+  font-size: 18px;
+  margin-bottom: 45px;
+}
+
+.big-five #Crocodile {
+  height: 60vh;
+  width: 680px;
+}
+
+.Crocodile {
+  width: 1130px;
+  max-width: 95%;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.Crocodile h2 {
+  color: white;
+  font-size: 75px;
+  margin-bottom: 20px;
+}
+
+.Crocodile p {
+  color: white;
+  letter-spacing: 1px;
+  line-height: 28px;
+  font-size: 18px;
+  margin-bottom: 45px;
+}
+
+.big-five #Puffadder {
+  height: 70vh;
+  width: 680px;
+}
+
+.Puffadder {
+  width: 1170px;
+  max-width: 95%;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.Puffadder h2 {
+  color: white;
+  font-size: 75px;
+  margin-bottom: 20px;
+}
+
+.Puffadder p {
+  color: white;
+  letter-spacing: 1px;
+  line-height: 28px;
+  font-size: 18px;
+  margin-bottom: 45px;
+}
+
+.big-five #mamba {
+  height: 60vh;
+  width: 680px;
+}
+
+.mamba {
+  width: 1130px;
+  max-width: 95%;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.mamba h2 {
+  color: white;
+  font-size: 75px;
+  margin-bottom: 20px;
+}
+
+.mamba p {
+  color: white;
+  letter-spacing: 1px;
+  line-height: 28px;
+  font-size: 18px;
+  margin-bottom: 45px;
+}
+
+.big-five #Boomslang {
+  height: 70vh;
+  width: 680px;
+}
+
+.Boomslang {
+  width: 1170px;
+  max-width: 95%;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.Boomslang h2 {
+  color: white;
+  font-size: 75px;
+  margin-bottom: 20px;
+}
+
+.Boomslang p {
+  color: white;
+  letter-spacing: 1px;
+  line-height: 28px;
+  font-size: 18px;
+  margin-bottom: 45px;
+}
+
+.big-five #Cobra {
+  height: 60vh;
+  width: 680px;
+}
+
+.Cobra {
+  width: 1130px;
+  max-width: 95%;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.Cobra h2 {
+  color: white;
+  font-size: 75px;
+  margin-bottom: 20px;
+}
+
+.Cobra p {
+  color: white;
+  letter-spacing: 1px;
+  line-height: 28px;
+  font-size: 18px;
+  margin-bottom: 45px;
+}
+
+.big-five #Longclaw {
+  height: 70vh;
+  width: 680px;
+}
+
+.Longclaw {
+  width: 1170px;
+  max-width: 95%;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.Longclaw h2 {
+  color: white;
+  font-size: 75px;
+  margin-bottom: 20px;
+}
+
+.Longclaw p {
+  color: white;
+  letter-spacing: 1px;
+  line-height: 28px;
+  font-size: 18px;
+  margin-bottom: 45px;
+}
+
+.big-five #Magpie {
+  height: 60vh;
+  width: 680px;
+}
+
+.Magpie {
+  width: 1130px;
+  max-width: 95%;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.Magpie h2 {
+  color: white;
+  font-size: 75px;
+  margin-bottom: 20px;
+}
+
+.Magpie p {
+  color: white;
+  letter-spacing: 1px;
+  line-height: 28px;
+  font-size: 18px;
+  margin-bottom: 45px;
+}
+
+.big-five #Lark {
+  height: 70vh;
+  width: 680px;
+}
+
+.Lark {
+  width: 1170px;
+  max-width: 95%;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.Lark h2 {
+  color: white;
+  font-size: 75px;
+  margin-bottom: 20px;
+}
+
+.Lark p {
+  color: white;
+  letter-spacing: 1px;
+  line-height: 28px;
+  font-size: 18px;
+  margin-bottom: 45px;
+}
+
+.big-five #Babbler {
+  height: 60vh;
+  width: 680px;
+}
+
+.Babbler {
+  width: 1130px;
+  max-width: 95%;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.Babbler h2 {
+  color: white;
+  font-size: 75px;
+  margin-bottom: 20px;
+}
+
+.Babbler p {
+  color: white;
+  letter-spacing: 1px;
+  line-height: 28px;
+  font-size: 18px;
+  margin-bottom: 45px;
+}
+
+.big-five #Montane {
+  height: 70vh;
+  width: 680px;
+}
+
+.Montane {
+  width: 1170px;
+  max-width: 95%;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.Montane h2 {
+  color: white;
+  font-size: 75px;
+  margin-bottom: 20px;
+}
+
+.Montane p {
+  color: white;
+  letter-spacing: 1px;
+  line-height: 28px;
+  font-size: 18px;
+  margin-bottom: 45px;
+}
+
+.big-five #Pangani {
+  height: 60vh;
+  width: 680px;
+}
+
+.Pangani {
+  width: 1130px;
+  max-width: 95%;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.Pangani h2 {
+  color: white;
+  font-size: 75px;
+  margin-bottom: 20px;
+}
+
+.Pangani p {
+  color: white;
+  letter-spacing: 1px;
+  line-height: 28px;
+  font-size: 18px;
+  margin-bottom: 45px;
+}
+
+.big-five #Ostrich {
+  height: 70vh;
+  width: 680px;
+}
+
+.Ostrich {
+  width: 1170px;
+  max-width: 95%;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.Ostrich h2 {
+  color: white;
+  font-size: 75px;
+  margin-bottom: 20px;
+}
+
+.Ostrich p {
+  color: white;
+  letter-spacing: 1px;
+  line-height: 28px;
+  font-size: 18px;
+  margin-bottom: 45px;
+}
+
+.big-five #Tilapia {
+  height: 60vh;
+  width: 680px;
+}
+
+.Tilapia {
+  width: 1130px;
+  max-width: 95%;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.Tilapia h2 {
+  color: white;
+  font-size: 75px;
+  margin-bottom: 20px;
+}
+
+.Tilapia p {
+  color: white;
+  letter-spacing: 1px;
+  line-height: 28px;
+  font-size: 18px;
+  margin-bottom: 45px;
+}
+
+.big-five #Mahi {
+  height: 70vh;
+  width: 680px;
+}
+
+.Mahi {
+  width: 1170px;
+  max-width: 95%;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.Mahi h2 {
+  color: white;
+  font-size: 75px;
+  margin-bottom: 20px;
+}
+
+.Mahi p {
+  color: white;
+  letter-spacing: 1px;
+  line-height: 28px;
+  font-size: 18px;
+  margin-bottom: 45px;
+}
+
+.big-five #Barracuda {
+  height: 60vh;
+  width: 680px;
+}
+
+.Barracuda {
+  width: 1130px;
+  max-width: 95%;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.Barracuda h2 {
+  color: white;
+  font-size: 75px;
+  margin-bottom: 20px;
+}
+
+.Barracuda p {
+  color: white;
+  letter-spacing: 1px;
+  line-height: 28px;
+  font-size: 18px;
+  margin-bottom: 45px;
+}
+
+.big-five #NilePerch {
+  height: 70vh;
+  width: 680px;
+}
+
+.NilePerch {
+  width: 1170px;
+  max-width: 95%;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.NilePerch h2 {
+  color: white;
+  font-size: 75px;
+  margin-bottom: 20px;
+}
+
+.NilePerch p {
+  color: white;
+  letter-spacing: 1px;
+  line-height: 28px;
+  font-size: 18px;
+  margin-bottom: 45px;
+}
+
+.big-five #Marlin {
+  height: 60vh;
+  width: 680px;
+}
+
+.Marlin {
+  width: 1130px;
+  max-width: 95%;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.Marlin h2 {
+  color: white;
+  font-size: 75px;
+  margin-bottom: 20px;
+}
+
+.Marlin p {
+  color: white;
+  letter-spacing: 1px;
+  line-height: 28px;
+  font-size: 18px;
+  margin-bottom: 45px;
+}
+
+.big-five #Tuna {
+  height: 70vh;
+  width: 680px;
+}
+
+.Tuna {
+  width: 1170px;
+  max-width: 95%;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.Tuna h2 {
+  color: white;
+  font-size: 75px;
+  margin-bottom: 20px;
+}
+
+.Tuna p {
+  color: white;
+  letter-spacing: 1px;
+  line-height: 28px;
+  font-size: 18px;
+  margin-bottom: 45px;
+}
+
+.big-five #Trout {
+  height: 60vh;
+  width: 680px;
+}
+
+.Trout {
+  width: 1130px;
+  max-width: 95%;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.Trout h2 {
+  color: white;
+  font-size: 75px;
+  margin-bottom: 20px;
+}
+
+.Trout p {
+  color: white;
+  letter-spacing: 1px;
+  line-height: 28px;
+  font-size: 18px;
+  margin-bottom: 45px;
+}
+
+.big-five #Zebra {
+  height: 70vh;
+  width: 680px;
+}
+
+.Zebra {
+  width: 1170px;
+  max-width: 95%;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.Zebra h2 {
+  color: white;
+  font-size: 75px;
+  margin-bottom: 20px;
+}
+
+.Zebra p {
+  color: white;
+  letter-spacing: 1px;
+  line-height: 28px;
+  font-size: 18px;
+  margin-bottom: 45px;
+}
+
+.big-five #Giraffe {
+  height: 60vh;
+  width: 680px;
+}
+
+.Giraffe {
+  width: 1130px;
+  max-width: 95%;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.Giraffe h2 {
+  color: white;
+  font-size: 75px;
+  margin-bottom: 20px;
+}
+
+.Giraffe p {
+  color: white;
+  letter-spacing: 1px;
+  line-height: 28px;
+  font-size: 18px;
+  margin-bottom: 45px;
+}
+
+.big-five #Gazelle {
+  height: 70vh;
+  width: 680px;
+}
+
+.Gazelle {
+  width: 1170px;
+  max-width: 95%;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.Gazelle h2 {
+  color: white;
+  font-size: 75px;
+  margin-bottom: 20px;
+}
+
+.Gazelle p {
+  color: white;
+  letter-spacing: 1px;
+  line-height: 28px;
+  font-size: 18px;
+  margin-bottom: 45px;
+}
+
+.big-five #Blue {
+  height: 60vh;
+  width: 680px;
+}
+
+.Blue {
+  width: 1130px;
+  max-width: 95%;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.Blue h2 {
+  color: white;
+  font-size: 75px;
+  margin-bottom: 20px;
+}
+
+.Blue p {
+  color: white;
+  letter-spacing: 1px;
+  line-height: 28px;
+  font-size: 18px;
+  margin-bottom: 45px;
+}
+
+.big-five #Colobus {
+  height: 70vh;
+  width: 680px;
+}
+
+.Colobus {
+  width: 1170px;
+  max-width: 95%;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.Colobus h2 {
+  color: white;
+  font-size: 75px;
+  margin-bottom: 20px;
+}
+
+.Colobus p {
+  color: white;
+  letter-spacing: 1px;
+  line-height: 28px;
+  font-size: 18px;
+  margin-bottom: 45px;
+}
+
+.big-five #Cheetah {
+  height: 60vh;
+  width: 680px;
+}
+
+.Cheetah {
+  width: 1130px;
+  max-width: 95%;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.Cheetah h2 {
+  color: white;
+  font-size: 75px;
+  margin-bottom: 20px;
+}
+
+.Cheetah p {
+  color: white;
+  letter-spacing: 1px;
+  line-height: 28px;
+  font-size: 18px;
+  margin-bottom: 45px;
+}
+
+.big-five #Flamingo {
+  height: 70vh;
+  width: 680px;
+}
+
+.big-five #Flamingo {
+  height: 70vh;
+  width: 680px;
+}
+
+.Flamingo {
+  width: 1170px;
+  max-width: 95%;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.Flamingo h2 {
+  color: white;
+  font-size: 75px;
+  margin-bottom: 20px;
+}
+
+.Flamingo p {
+  color: white;
+  letter-spacing: 1px;
+  line-height: 28px;
+  font-size: 18px;
+  margin-bottom: 45px;
+}
+
 footer {
   position: relative;
   width: 100%;
